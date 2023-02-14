@@ -8,7 +8,7 @@ Meu nome é **Lairton Goncalves** sou desenvolvedor de software, e tive contato 
 - HTML, CSS3 e JavaScript
 - NodeJS
 - PHP
-- ReactJS
+- React JS
 - React Native
 - Electron
 - Python
