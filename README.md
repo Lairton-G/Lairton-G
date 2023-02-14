@@ -13,4 +13,4 @@ Meu nome é **Lairton Goncalves** sou desenvolvedor de software, e tive contato 
 - Electron
 - Python
 
-Com muito carinho posso dizer que ainda estou em processo de evolução!
+Com muita sinceridade posso dizer que ainda estou em processo de evolução! Mas tenho muito conhecimento adquirido!
