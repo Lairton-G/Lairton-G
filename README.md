@@ -6,4 +6,5 @@ Meu nome é **Lairton Goncalves** sou desenvolvedor de software, e tive contato 
 
 ## **Habilidades**
 
-$\color{U+1F534}{your-text-here}$
+<span style="color: white; background-color: blue; display: inline;">Desenvolvimento Web</span>
+<span style="color: white; background-color: blue; display: inline;">Desenvolvimento Web</span>
