@@ -5,4 +5,5 @@ Bem vindos(a) ao meu perfil do github, e se você está aqui é porque tem algum
 Meu nome é **Lairton Goncalves** sou desenvolvedor de software, e tive contato com programação no inicio do ensino médio no **IFPB** ( _Instituto Federal da Paraíba_ ) onde cursava para técnico em informática, a primeira linguagem e talvez a de muitos foi c++ e portugol, assim que eu conheci me apaixonei de vez por programação, foi como se fosse amor a primeira vista, durante os três anos de curso extrai conhecimento possivel para o mercado de trabalho!
 
 ## **Habilidades**
-<span style="color:blue">some *blue* text</span>.
+
+$\color{U+1F534}{your-text-here}$
