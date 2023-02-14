@@ -12,3 +12,5 @@ Meu nome é **Lairton Goncalves** sou desenvolvedor de software, e tive contato 
 - React Native
 - Electron
 - Python
+
+Com muito carinho posso dizer que ainda estou em processo de evolução!
