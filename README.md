@@ -14,3 +14,7 @@ Meu nome é **Lairton Goncalves** sou desenvolvedor de software, e tive contato 
 - Python
 
 Com muita sinceridade posso dizer que ainda estou em processo de evolução! Mas tenho muito conhecimento adquirido!
+
+# **Links**
+**Desenvolvedor do Google**
+[]()
