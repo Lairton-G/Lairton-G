@@ -12,8 +12,6 @@ Bem vindos(a) ao meu perfil do github, Meu nome é **Lairton Goncalves** sou des
 - Electron
 - Python
 
-Com muita sinceridade posso dizer que ainda estou em processo de evolução! Mas posso dizer que sei fazer várias coisas interessantes!
-
 # **Links**
 **Perfil do Desenvolvedor do Google**
 
