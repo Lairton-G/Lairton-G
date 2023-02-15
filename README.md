@@ -13,5 +13,5 @@
 - <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" width="20"> Python
 
 # **Links**
-<img src="https://cdn-icons-png.flaticon.com/512/1832/1832051.png width="20"> **Perfil do Desenvolvedor do Google**
+<img src="https://cdn-icons-png.flaticon.com/512/1832/1832051.png" width="20"> **Perfil do Desenvolvedor do Google**: 
 **[g.dev/LairtonGoncalves](https://g.dev/LairtonGoncalves)**
