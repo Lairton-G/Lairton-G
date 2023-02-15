@@ -4,6 +4,7 @@ Bem vindos(a) ao meu perfil do github, Meu nome é **Lairton Goncalves** sou des
 
 ## **Habilidades**
 - HTML, CSS3 e JavaScript
+- Pré-processador SASS
 - NodeJS
 - PHP
 - React JS
