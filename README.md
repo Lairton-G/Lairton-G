@@ -15,4 +15,4 @@
 # **Links**
 <img src="https://cdn-icons-png.flaticon.com/512/1832/1832051.png" width="20"> **Perfil do Desenvolvedor do Google**: 
 
-![Badge](https://img.shields.io/static/v1?label=Google&message=Desenvolvedor%20do%20Google&color=blue&style=for-the-badge&logo=GOOGLE)
+[![Badge](https://img.shields.io/static/v1?label=Google&message=Desenvolvedor%20do%20Google&color=blue&style=for-the-badge&logo=GOOGLE)](https://g.dev/LairtonGoncalves)
