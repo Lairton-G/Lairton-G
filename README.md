@@ -1,8 +1,8 @@
 
 <img src="https://media.licdn.com/dms/image/D4D16AQEJoYaP5qAYew/profile-displaybackgroundimage-shrink_350_1400/0/1676475542935?e=1681948800&v=beta&t=4M8ptXdh0vaAvT-B-NxtK61Alzkx3sYKI6Sgqflmwkc" width="100%">
 
-   [![Badge](https://img.shields.io/static/v1?label=Youtube&message=Canal%20do%20Youtube&color=red&style=flot&logo=YOUTUBE)](https://www.youtube.com/@kall_oficial)   [![Badge](https://img.shields.io/static/v1?label=Linkedin&message=Perfil%20do%20Linkedin&color=yellow&style=flot&logo=LINKEDIN)](https://www.linkedin.com/in/lairton-goncalves-dev) 
-[![Badge](https://img.shields.io/static/v1?label=Google&message=Desenvolvedor%20do%20Google&color=greem&style=flot&logo=GOOGLE)](https://g.dev/LairtonGoncalves)
+   [![Badge](https://img.shields.io/static/v1?label=Youtube&message=Canal%20do%20Youtube&color=red&style=for-the-badge&logo=YOUTUBE)](https://www.youtube.com/@kall_oficial)   [![Badge](https://img.shields.io/static/v1?label=Linkedin&message=Perfil%20do%20Linkedin&color=yellow&style=flot&logo=LINKEDIN)](https://www.linkedin.com/in/lairton-goncalves-dev) 
+[![Badge](https://img.shields.io/static/v1?label=Google&message=Desenvolvedor%20do%20Google&color=greem&style=for-the-badge&logo=GOOGLE)](https://g.dev/LairtonGoncalves)
 
 <hr>
 
