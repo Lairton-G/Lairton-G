@@ -16,3 +16,6 @@
 <img src="https://cdn-icons-png.flaticon.com/512/1832/1832051.png" width="20"> _Perfil do Desenvolvedor do Google_
 
 [![Badge](https://img.shields.io/static/v1?label=Google&message=Desenvolvedor%20do%20Google&color=blue&style=for-the-badge&logo=GOOGLE)](https://g.dev/LairtonGoncalves)
+
+#  **Redes Sociais**
+[![Badge](https://img.shields.io/static/v1?label=Youtube&message=Canal%20do%20Youtube&color=red&style=for-the-badge&logo=YOUTUBE)](https://www.youtube.com/@kall_oficial) [![Badge](https://img.shields.io/static/v1?label=Linkedin&message=Perfil%20do%20Linkedin&color=yellow&style=for-the-badge&logo=LINKEDIN)](https://www.youtube.com/@kall_oficial)
