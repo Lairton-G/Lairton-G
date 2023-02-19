@@ -15,4 +15,4 @@
 - <img src="https://th.bing.com/th/id/R.d42672d4d185739d26257ed5c653c740?rik=dvh0VB%2fEWz20hQ&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fnodejs-logo-png-nice-images-collection-node-js-desktop-wallpapers-370.png&ehk=bMmyN3n62enzXql6L4A5EzHc90tJxK%2bKcr6GMACTfRk%3d&risl=&pid=ImgRaw&r=0" width="12"> Node JS
 - <img src="https://th.bing.com/th/id/R.adbac78231c9a2ff5c21aaa32dd4e1e4?rik=jWTUkOKwKIk7jg&riu=http%3a%2f%2flofrev.net%2fwp-content%2fphotos%2f2017%2f05%2fphp_emblem.png&ehk=gbX0plW%2fbqAeSR4cWmkL44R%2bUWxCpG3CL%2b2V4KHQlpQ%3d&risl=&pid=ImgRaw&r=0" width="20"> PHP
 - <img src="https://logospng.org/download/electron/electron-1024.png" width="15"> Electron
-- <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" width="15"> Python
+- <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" width="15"> Python (Nivel médio de conhecimento)
