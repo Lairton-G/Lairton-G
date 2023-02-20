@@ -19,3 +19,7 @@
 <h2><strong>TECNOLOGIAS</strong></h1>
   
 ![Badge HTML](https://img.shields.io/badge/HTML-f2c207?style=for-the-badge&logo=html5&logoColor=white) ![Badge CSS3](https://img.shields.io/badge/CSS-079af2?&style=for-the-badge&logo=css3&logoColor=white) ![Badge Js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Badge Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![Badge PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Badge MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+<h2><strong>Github Stats</strong></h2>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lairton-G&show_icons=true&theme=radical)
