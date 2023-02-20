@@ -14,10 +14,6 @@
 <br>
 
 <div align="center">
-<img  src="https://i.ibb.co/6H7KMCV/IMG-20230220-122512.jpg" alt="IMG-20230220-122512" border="1" width="60%">
-</div>
-  
-<div align="center">
   <br>
   <h2>Redes Sociais</h2>
   
@@ -25,4 +21,8 @@
 [![Badge Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/LairtonGoncal)
 [![Badge Youtube](https://img.shields.io/badge/Youtube-f00?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LairtonGoncalves)
   
+</div>
+
+<div align="center">
+<img  src="https://i.ibb.co/6H7KMCV/IMG-20230220-122512.jpg" alt="IMG-20230220-122512" border="1" width="60%">
 </div>
