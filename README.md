@@ -5,9 +5,9 @@
 <div align="center">
   <br>
   
-[![Badge Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lairton-goncalves-dev)
+[![Badge Linkdin](https://img.shields.io/badge/LinkedIn-0f0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lairton-goncalves-dev)
 [![Badge Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/LairtonGoncal)
-
+[![Badge Youtube](https://img.shields.io/badge/Youtube-f00?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LairtonGoncalves)
   
 </div>
 
