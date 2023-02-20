@@ -5,7 +5,12 @@
 <div align="center">
   <br>
   
-[![Badge](https://img.shields.io/static/v1?label=Youtube&message=Canal&color=red&style=for-the-badge&logo=YOUTUBE)](https://www.youtube.com/@LairtonGoncalves)  [![Badge](https://img.shields.io/static/v1?label=Linkedin&message=Perfil&color=yellow&style=for-the-badge&logo=LINKEDIN)](https://www.linkedin.com/in/lairton-goncalves-dev) 
+[![Badge](https://img.shields.io/static/v1?label=Youtube&message=Canal&color=red&style=for-the-badge&logo=YOUTUBE)](https://www.youtube.com/@LairtonGoncalves)  
+  
+[![Badge Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+  
+  
+  
 [![Badge](https://img.shields.io/static/v1?label=Google&message=Desenvolvedor&color=greem&style=for-the-badge&logo=GOOGLE)](https://g.dev/LairtonGoncalves)
   [![Badge](https://img.shields.io/static/v1?label=Twitter&message=Perfil&color=violet&style=for-the-badge&logo=GOOGLE)](https://www.twitter.com/LairtonGoncal)
   
