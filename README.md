@@ -1,11 +1,17 @@
-
-<img align="right" src="https://i.ibb.co/6H7KMCV/IMG-20230220-122512.jpg" alt="IMG-20230220-122512" border="0" width="60%">
-
+<div align="center">
+<img  src="https://i.ibb.co/6H7KMCV/IMG-20230220-122512.jpg" alt="IMG-20230220-122512" border="0" width="60%">
+</div>
+  
+<div align="center">
+  <br>
+  
 [![Badge](https://img.shields.io/static/v1?label=Youtube&message=Canal%20do%20Youtube&color=red&style=for-the-badge&logo=YOUTUBE)](https://www.youtube.com/@kall_oficial)   [![Badge](https://img.shields.io/static/v1?label=Linkedin&message=Perfil%20do%20Linkedin&color=yellow&style=for-the-badge&logo=LINKEDIN)](https://www.linkedin.com/in/lairton-goncalves-dev) 
 [![Badge](https://img.shields.io/static/v1?label=Google&message=Desenvolvedor%20do%20Google&color=greem&style=for-the-badge&logo=GOOGLE)](https://g.dev/LairtonGoncalves)
+  
+</div>
 
 <hr>
-### **Olá Todos(a)** <img src="https://media.giphy.com/media/BXjqytvu9bKzCUHdzz/giphy.gif" width="20">
+<h2>Olá Todos(a) <img src="https://media.giphy.com/media/BXjqytvu9bKzCUHdzz/giphy.gif" width="20"></h2>
 
 🎉 Bem vindos(a) ao meu perfil do github, Meu nome é **Lairton Goncalves** sou desenvolvedor de software, e tive contato com programação no inicio do ensino médio no **IFPB** ( _Instituto Federal da Paraíba_ ) onde cursava para técnico em informática, a primeira linguagem e talvez a de muitos foi c++ e portugol, assim que eu conheci me apaixonei de vez por programação, foi como se fosse amor a primeira vista, durante os três anos de curso extrai conhecimento possivel para o mercado de trabalho, e sempre busco me aprofundar mais nos assuntos relacionados a tecnologia e a desenvolvimento de software, sempre também me mantendo atualizado das novidades sobre TI. 
 
