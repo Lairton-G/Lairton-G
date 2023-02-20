@@ -1,4 +1,4 @@
-<img align="center" src="https://i.ibb.co/6H7KMCV/IMG-20230220-122512.jpg" alt="IMG-20230220-122512" border="0" width="100%">
+<img align="center" src="https://i.ibb.co/6H7KMCV/IMG-20230220-122512.jpg" alt="IMG-20230220-122512" border="0" width="50%">
 
 [![Badge](https://img.shields.io/static/v1?label=Youtube&message=Canal%20do%20Youtube&color=red&style=for-the-badge&logo=YOUTUBE)](https://www.youtube.com/@kall_oficial)   [![Badge](https://img.shields.io/static/v1?label=Linkedin&message=Perfil%20do%20Linkedin&color=yellow&style=for-the-badge&logo=LINKEDIN)](https://www.linkedin.com/in/lairton-goncalves-dev) 
 [![Badge](https://img.shields.io/static/v1?label=Google&message=Desenvolvedor%20do%20Google&color=greem&style=for-the-badge&logo=GOOGLE)](https://g.dev/LairtonGoncalves)
