@@ -9,8 +9,7 @@
 
 <h2><strong>Github Stats</strong></h2>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lairton-G&show_icons=true&theme=radical)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lairton-G&show_icons=true&theme=dark)
 <br>
 
 <h2>Redes Sociais</h2>
