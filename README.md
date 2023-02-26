@@ -1,7 +1,7 @@
 
 <h2>Olá Todos(a) <img src="https://media.giphy.com/media/BXjqytvu9bKzCUHdzz/giphy.gif" width="20"></h2>
 
-🎉 Bem vindos(a) ao meu perfil do github, Meu nome é **Lairton Goncalves** sou desenvolvedor de software, e com muita certeza posso dizer que é uma paixão, programação é como criar um mundo usando ideias e as colocando em um código que os computadores interpretam.
+🎉 Bem vindos(a) ao meu perfil do github, Meu nome é **Lairton Goncalves** sou desenvolvedor de software, e com muita certeza posso dizer que programação é uma paixão, programação é como criar um mundo usando ideias e as colocando em um código que os computadores interpretam.
 
 <h2><strong>TECNOLOGIAS</strong></h1>
   
