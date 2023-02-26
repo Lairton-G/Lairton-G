@@ -15,5 +15,6 @@
 <h2>Redes Sociais</h2>
   
 [![Badge Linkdin](https://img.shields.io/badge/LinkedIn-0f0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lairton-goncalves-dev)
+[![Badge Instagram](https://img.shields.io/badge/Instagram-0ff?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lairton.developer/)
  
 <img  src="https://i.ibb.co/6H7KMCV/IMG-20230220-122512.jpg" alt="IMG-20230220-122512" border="1" width="70%">
