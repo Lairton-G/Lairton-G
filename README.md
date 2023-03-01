@@ -1,9 +1,7 @@
 
-<h2>Olá Todos(a) <img src="https://media.giphy.com/media/BXjqytvu9bKzCUHdzz/giphy.gif" width="20"></h2>
+<img  src="https://i.ibb.co/6H7KMCV/IMG-20230220-122512.jpg" alt="IMG-20230220-122512" border="1" width="60%">
 
-🎉 Bem vindos(a) ao meu perfil do github, Meu nome é **Lairton Goncalves** sou desenvolvedor de software, e com muita certeza posso dizer que programação é uma paixão, programação é como criar um mundo usando ideias e as colocando em um código que os computadores interpretam e isso é simplesmente incrível.
-
-<h2>Redes Sociais</h2>
+<h2>REDES SOCIAIS</h2>
 
 [![Badge Linkdin](https://img.shields.io/badge/LinkedIn-0f0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lairton-goncalves-dev)
 [![Badge Instagram](https://img.shields.io/badge/Instagram-0ff?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lairton.developer/)
@@ -17,4 +15,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lairton-G&show_icons=true&theme=radical)
 <br>
  
-<img  src="https://i.ibb.co/6H7KMCV/IMG-20230220-122512.jpg" alt="IMG-20230220-122512" border="1" width="60%">
