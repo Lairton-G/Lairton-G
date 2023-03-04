@@ -20,5 +20,5 @@
 
 | <strong>Nome do Projeto</strong> | <strong>Preview</strong>|
 |-----------------|-----------|
-| Chat em tempo real. foi usado nesse <br> projeto HTML e CSS como front-end <br> enquato o Node Js faz o back-end, <br> foi usado libs Express e Socket.io| <img src="https://camo.githubusercontent.com/416bdb6368d23bce855a6b6ea80c9b0133d5f0ceeca16fe32e8b561dcf53ef43/68747470733a2f2f692e6962622e636f2f4233524e3258772f53637265656e2d53686f6f742e706e67" width="300px">|
+| <strong>[Chat em tempo real](https://github.com/Lairton-G/chat.git)</strong> | <img src="https://camo.githubusercontent.com/416bdb6368d23bce855a6b6ea80c9b0133d5f0ceeca16fe32e8b561dcf53ef43/68747470733a2f2f692e6962622e636f2f4233524e3258772f53637265656e2d53686f6f742e706e67" width="300px">|
 
