@@ -17,7 +17,7 @@
 
 <h2><strong>Tecnologias</strong></h1>
   
-![Badge HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=white) ![Badge CSS3](https://img.shields.io/badge/CSS-000?&style=for-the-badge&logo=css3&logoColor=white) ![Badge Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass&logoColor=white) ![Badge Js](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JS&logoColor=black) ![Badge Nodejs](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=white) ![Badge PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=white) ![Badge MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
+![Badge HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=white) ![Badge CSS3](https://img.shields.io/badge/CSS-000?&style=for-the-badge&logo=css3&logoColor=white) ![Badge Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass&logoColor=white) ![Badge Js](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JS&logoColor=black) ![Badge Nodejs](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=white) ![Badge PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=white) ![Badge MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Badge Python](https://img.shields.io/badge/Python-00000F?style=for-the-badge&logo=python&logoColor=white) 
 
 <h2> <strong>Projetos</strong> </h2>
 
