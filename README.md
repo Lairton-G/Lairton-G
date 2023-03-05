@@ -1,5 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#c307f2&height=120&section=header"/>
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c307f2&size=35&center=true&vCenter=true&width=1000&lines=Olá+meu+nome+é+Lairton+Gonçalves;Eu+tenho+18+anos;Sou+do+Brasil,+PB;E+sou+estudante+de+engenharia+de+software;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Lairton-G&show_icons=true&count_private=true&hide_border=true&title_color=c307f2&icon_color=c307f2f&text_color=c9d1d9&bg_color=0d1117" alt="Lairtgon goncalves" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lairton-G&layout=compact&hide_border=true&title_color=c307f2&text_color=00bfbf&bg_color=0d1117" />
