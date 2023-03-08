@@ -24,4 +24,4 @@
 | <strong>Nome do Projeto</strong> | <strong>Preview</strong>|
 |-----------------|-----------|
 | <strong>[Chat em tempo real](https://github.com/Lairton-G/chat.git)</strong> | <img src="https://camo.githubusercontent.com/416bdb6368d23bce855a6b6ea80c9b0133d5f0ceeca16fe32e8b561dcf53ef43/68747470733a2f2f692e6962622e636f2f4233524e3258772f53637265656e2d53686f6f742e706e67" width="300px">|
-| **[Gerenciador de tarefas](https://github.com/Lairton-G/Task-manager.git)** | <img src="https://github.com/Lairton-G/Task-manager/blob/main/CapturaTaskMananger.PNG?raw=true" width="300px">
+| **[Gerenciador de tarefas](https://github.com/Lairton-G/Task-manager.git)**  | <img src="https://github.com/Lairton-G/Task-manager/blob/main/CapturaTaskMananger.PNG?raw=true" width="300px">
