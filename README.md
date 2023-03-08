@@ -8,7 +8,9 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lairton-G&layout=compact&hide_border=true&title_color=c307f2&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/93dc3fba-1632-4042-811a-19a968805ba6/deploy-status)](https://app.netlify.com/sites/lairtongoncalves/deploys)
 
+**[MEU PORTFÓLIO](https://lairtongoncalves.netlify.app/)**
 
 <h2>Redes Sociais</h2>
 
