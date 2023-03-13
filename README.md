@@ -25,4 +25,4 @@
 
 | <strong>Nome do Projeto</strong> | <strong>Preview</strong>|
 |-----------------|-----------|
-| ** [Jogo da Cobinha](https://github.com/Lairton-G/snake-game.git) ** | <img src="https://github.com/Lairton-G/Snake-game/blob/main/snake-game.PNG" width="300px"> |
+| **[Jogo da Cobinha](https://github.com/Lairton-G/snake-game.git)** | <img src="https://github.com/Lairton-G/Snake-game/blob/main/snake-game.PNG" width="300px"> |
